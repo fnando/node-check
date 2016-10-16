@@ -1,0 +1,21 @@
+{
+  "name": "node-check",
+  "version": "0.1.0",
+  "engines": {
+    "node": "6.8.1"
+  },
+  "scripts": {
+    "test": "node test/tests.js"
+  },
+  "description": "Check if you're running the exact Node version you specified in package.json.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/fnando/node-check.git",
+    "type": "git"
+  },
+  "author": "Nando Vieira",
+  "license": "MIT",
+  "dependencies": {
+    "semver": "^5.3.0"
+  }
+}
