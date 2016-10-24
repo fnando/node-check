@@ -1,9 +1,6 @@
 {
   "name": "node-check",
   "version": "0.1.0",
-  "engines": {
-    "node": "6.8.1"
-  },
   "scripts": {
     "test": "node test/tests.js"
   },
